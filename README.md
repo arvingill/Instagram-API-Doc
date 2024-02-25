@@ -1,6 +1,8 @@
 En [中文](./README_CN.md)
 
-# Instagram API
+# Instagram Scraping API
+
+[Go to Platform](https://www.idatariver.com)
 
 ## Success Response Examples
 
