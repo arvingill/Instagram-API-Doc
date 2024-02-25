@@ -39,7 +39,7 @@ Hashtag最热门的作品列表 [成功返回样例](./examples/success_hashtag_
 Hashtag下的Reels [成功返回样例](./examples/success_hashtag_reels.json)
 
 
-## Error Response Examples
+## 失败返回样例
 
 [参数错误](./examples/failed_1001.json)
 
